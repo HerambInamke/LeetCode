@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HerambInamke/LeetCode/tree/master/0012-integer-to-roman) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HerambInamke/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HerambInamke/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/HerambInamke/LeetCode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/HerambInamke/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
