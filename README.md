@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/HerambInamke/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HerambInamke/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HerambInamke/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HerambInamke/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/HerambInamke/LeetCode/tree/master/0012-integer-to-roman) |
+| [1840-maximum-building-height](https://github.com/HerambInamke/LeetCode/tree/master/1840-maximum-building-height) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/HerambInamke/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HerambInamke/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
