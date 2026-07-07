@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/HerambInamke/LeetCode/tree/master/0012-integer-to-roman) |
 | [1840-maximum-building-height](https://github.com/HerambInamke/LeetCode/tree/master/1840-maximum-building-height) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HerambInamke/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
