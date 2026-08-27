@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HerambInamke/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/HerambInamke/LeetCode/tree/master/0015-3sum) |
 | [0486-predict-the-winner](https://github.com/HerambInamke/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HerambInamke/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/HerambInamke/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HerambInamke/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/HerambInamke/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HerambInamke/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HerambInamke/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/HerambInamke/LeetCode/tree/master/1927-sum-game) |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/HerambInamke/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HerambInamke/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
