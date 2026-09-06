@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/HerambInamke/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HerambInamke/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HerambInamke/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/HerambInamke/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HerambInamke/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HerambInamke/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/HerambInamke/LeetCode/tree/master/1927-sum-game) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/HerambInamke/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/HerambInamke/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HerambInamke/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HerambInamke/LeetCode/tree/master/1140-stone-game-ii) |
