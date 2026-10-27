@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HerambInamke/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HerambInamke/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/HerambInamke/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/HerambInamke/LeetCode/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HerambInamke/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HerambInamke/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HerambInamke/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HerambInamke/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HerambInamke/LeetCode/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/HerambInamke/LeetCode/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HerambInamke/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HerambInamke/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HerambInamke/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
